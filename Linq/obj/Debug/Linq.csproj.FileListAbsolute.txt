@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\galax\RiderProjects\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\galax\RiderProjects\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\galax\RiderProjects\Linq\Linq\obj\Debug\Linq.pdb

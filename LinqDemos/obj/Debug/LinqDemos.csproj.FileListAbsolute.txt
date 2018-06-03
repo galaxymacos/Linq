@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\LinqDemos\bin\Debug\LinqDemos.exe
+C:\Users\galax\RiderProjects\Linq\LinqDemos\bin\Debug\LinqDemos.pdb
+C:\Users\galax\RiderProjects\Linq\LinqDemos\obj\Debug\LinqDemos.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\LinqDemos\obj\Debug\LinqDemos.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\LinqDemos\obj\Debug\LinqDemos.exe
+C:\Users\galax\RiderProjects\Linq\LinqDemos\obj\Debug\LinqDemos.pdb

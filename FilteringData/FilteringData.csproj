@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F27B0905-08F0-4549-8D07-8D4724315B2A}</ProjectGuid>
+    <ProjectGuid>{97138E2D-44B1-4592-9312-2814654C0B3C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SelectAndSelectMany</RootNamespace>
-    <AssemblyName>SelectAndSelectMany</AssemblyName>
+    <RootNamespace>FilteringData</RootNamespace>
+    <AssemblyName>FilteringData</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -49,6 +49,10 @@
     <ProjectReference Include="..\MyExtensions\MyExtensions.csproj">
       <Project>{a173a407-47f4-4d71-b0e9-54d936117dee}</Project>
       <Name>MyExtensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelectAndSelectMany\SelectAndSelectMany.csproj">
+      <Project>{f27b0905-08f0-4549-8d07-8d4724315b2a}</Project>
+      <Name>SelectAndSelectMany</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

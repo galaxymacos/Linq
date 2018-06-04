@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F27B0905-08F0-4549-8D07-8D4724315B2A}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{9DF753D0-C968-4B34-898C-BED7B3D0272F}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SelectAndSelectMany</RootNamespace>
-    <AssemblyName>SelectAndSelectMany</AssemblyName>
+    <RootNamespace>MyExtensionLibrary</RootNamespace>
+    <AssemblyName>MyExtensionLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -38,18 +38,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="EnumerableExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MyExtensionLibrary\MyExtensionLibrary.csproj">
-      <Project>{9df753d0-c968-4b34-898c-bed7b3d0272f}</Project>
-      <Name>MyExtensionLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\MyExtensions\MyExtensions.csproj">
-      <Project>{a173a407-47f4-4d71-b0e9-54d936117dee}</Project>
-      <Name>MyExtensions</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

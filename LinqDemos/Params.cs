@@ -3,9 +3,11 @@ using System.Collections.Generic;
 
 namespace LinqDemos
 {
-    public class Params:IEnumerable<int>
+    public class Params : IEnumerable<int>
     {
-        private int a, b, c;
+        private readonly int a;
+        private readonly int b;
+        private readonly int c;
 
         public Params(int a, int b, int c)
         {
@@ -13,7 +15,7 @@ namespace LinqDemos
             this.b = b;
             this.c = c;
         }
-        
+
         // want to use for-each to 
         public IEnumerator<int> GetEnumerator()
         {

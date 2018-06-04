@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linq.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Linq.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linq/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Linq/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linq/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Linq/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqDemos/Params.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/Params.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqDemos/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqDemos/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/SelectAndSelectMany.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/SelectAndSelectMany.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug/SelectAndSelectMany.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug/SelectAndSelectMany.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug/SelectAndSelectMany.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug/SelectAndSelectMany.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/obj/Debug/SelectAndSelectMany.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,32 +31,60 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FilteringData/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            <state relative-caret-position="288">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
-                <marker date="1528084284522" expanded="true" signature="6:32" ph="..." />
-                <marker date="1528084284522" expanded="true" signature="63:1503" ph="{...}" />
-                <marker date="1528084284522" expanded="true" signature="92:1501" ph="{...}" />
-                <marker date="1528084284522" expanded="true" signature="145:1495" ph="{...}" />
-                <marker date="1528084284522" expanded="true" signature="567:667" ph="/* Get the length of each word as an array with words themselves ... */" />
+                <marker date="1528085377270" expanded="true" signature="6:44" ph="..." />
+                <marker date="1528085377270" expanded="true" signature="69:633" ph="{...}" />
+                <marker date="1528085377270" expanded="true" signature="98:631" ph="{...}" />
+                <marker date="1528085377270" expanded="true" signature="151:625" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/Class1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <marker date="1528085239030" expanded="true" signature="28:68" ph="{...}" />
+                <marker date="1528085239030" expanded="true" signature="54:66" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="EnumerableExtensions.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs">
+        <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="32">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding>
-                <marker date="1528081875530" expanded="false" signature="6:39" ph="..." />
-                <marker date="1528081875530" expanded="true" signature="70:367" ph="{...}" />
-                <marker date="1528081875530" expanded="true" signature="117:365" ph="{...}" />
-                <marker date="1528081875530" expanded="true" signature="185:359" ph="{...}" />
-                <marker date="1528081875530" expanded="true" signature="243:315" ph="{...}" />
+                <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
+                <marker date="1528085377285" expanded="true" signature="69:324" ph="{...}" />
+                <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
+                <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
+                <marker date="1528085377285" expanded="true" signature="242:272" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <marker date="1528085377297" expanded="true" signature="6:58" ph="..." />
+                <marker date="1528085377297" expanded="true" signature="89:1489" ph="{...}" />
+                <marker date="1528085377297" expanded="true" signature="118:1487" ph="{...}" />
+                <marker date="1528085377297" expanded="true" signature="171:1481" ph="{...}" />
+                <marker date="1528085377297" expanded="true" signature="566:666" ph="/* Get the length of each word as an array with words themselves ... */" />
               </folding>
             </state>
           </provider>
@@ -68,7 +105,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LinqDemos/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FilteringData/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MyExtensionLibrary/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DEBC1CA-F559-4CCF-992A-A9E60810B4D5/32/4d0a3487/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/BookRepository.cs" root0="FORCE_HIGHLIGHTING" />
@@ -87,7 +126,12 @@
         <option value="$PROJECT_DIR$/LinqDemos/Person.cs" />
         <option value="$PROJECT_DIR$/LinqDemos/Program.cs" />
         <option value="$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" />
+        <option value="$PROJECT_DIR$/MyExtensions/Program.cs" />
+        <option value="$PROJECT_DIR$/MyExtensions/EnumerableExtensions.cs" />
+        <option value="$PROJECT_DIR$/MyExtensionLibrary/Class1.cs" />
+        <option value="$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs" />
         <option value="$PROJECT_DIR$/SelectAndSelectMany/Program.cs" />
+        <option value="$PROJECT_DIR$/FilteringData/Program.cs" />
       </list>
     </option>
   </component>
@@ -101,9 +145,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-14" />
-    <option name="width" value="3868" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3870" />
     <option name="height" value="2097" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -120,11 +164,21 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Linq (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Linq (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Linq (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Linq (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="FilteringData" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Linq (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyExtensionLibrary" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Linq (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="SelectAndSelectMany" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
@@ -152,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.SelectAndSelectMany">
+  <component name="RunManager" selected=".NET Project.FilteringData">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Linq/bin/Debug/Linq.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -161,6 +215,20 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Linq/Linq.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+    <configuration name="FilteringData" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FilteringData/bin/Debug/FilteringData.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FilteringData/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FilteringData/FilteringData.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -199,9 +267,11 @@
       <item itemvalue=".NET Project.Default" />
       <item itemvalue=".NET Project.LinqDemos" />
       <item itemvalue=".NET Project.SelectAndSelectMany" />
+      <item itemvalue=".NET Project.FilteringData" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.FilteringData" />
         <item itemvalue=".NET Project.SelectAndSelectMany" />
         <item itemvalue=".NET Project.LinqDemos" />
       </list>
@@ -222,12 +292,12 @@
       <workItem from="1526195418342" duration="282000" />
       <workItem from="1526223510688" duration="1820000" />
       <workItem from="1528042999250" duration="4586000" />
-      <workItem from="1528079790038" duration="3665000" />
+      <workItem from="1528079790038" duration="4757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17182000" />
+    <option name="totallyTimeSpent" value="18274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,28 +312,28 @@
     <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27836412" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14234234" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32936507" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Run" order="5" weight="0.36936936" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="NuGet" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.14234234" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32936507" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -281,11 +351,11 @@
         <state relative-caret-position="336">
           <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
           <folding>
-            <marker date="1528080112296" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528080112296" expanded="true" signature="113:943" ph="{...}" />
-            <marker date="1528080112296" expanded="true" signature="142:941" ph="{...}" />
-            <marker date="1528080112296" expanded="true" signature="195:935" ph="{...}" />
-            <marker date="1528080112296" expanded="true" signature="723:827" ph="{...}" />
+            <marker date="1528085373602" expanded="false" signature="6:58" ph="..." />
+            <marker date="1528085373602" expanded="true" signature="79:790" ph="{...}" />
+            <marker date="1528085373602" expanded="true" signature="108:788" ph="{...}" />
+            <marker date="1528085373602" expanded="true" signature="161:782" ph="{...}" />
+            <marker date="1528085373602" expanded="true" signature="623:687" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -301,10 +371,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1528047016595" expanded="true" signature="80:591" ph="{...}" />
-            <marker date="1528047016595" expanded="true" signature="219:359" ph="{...}" />
-            <marker date="1528047016595" expanded="true" signature="401:585" ph="{...}" />
-            <marker date="1528047016595" expanded="true" signature="427:575" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="80:664" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="292:432" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="474:658" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="500:648" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -314,11 +384,11 @@
         <state relative-caret-position="224">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
-            <marker date="1528043515324" expanded="false" signature="6:59" ph="..." />
-            <marker date="1528043515324" expanded="true" signature="123:602" ph="{...}" />
-            <marker date="1528043515324" expanded="true" signature="202:294" ph="{...}" />
-            <marker date="1528043515324" expanded="true" signature="387:491" ph="{...}" />
-            <marker date="1528043515324" expanded="true" signature="540:596" ph="{...}" />
+            <marker date="1528085373593" expanded="false" signature="6:59" ph="..." />
+            <marker date="1528085373593" expanded="true" signature="125:663" ph="{...}" />
+            <marker date="1528085373593" expanded="true" signature="271:363" ph="{...}" />
+            <marker date="1528085373593" expanded="true" signature="448:552" ph="{...}" />
+            <marker date="1528085373593" expanded="true" signature="601:657" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -355,7 +425,15 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Linq/BookRepository.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528043108314" expanded="true" signature="83:489" ph="{...}" />
+            <marker date="1528043108314" expanded="true" signature="133:483" ph="{...}" />
+            <marker date="1528043108314" expanded="true" signature="190:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Linq/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -368,10 +446,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1528047016595" expanded="true" signature="80:591" ph="{...}" />
-            <marker date="1528047016595" expanded="true" signature="219:359" ph="{...}" />
-            <marker date="1528047016595" expanded="true" signature="401:585" ph="{...}" />
-            <marker date="1528047016595" expanded="true" signature="427:575" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="80:664" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="292:432" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="474:658" ph="{...}" />
+            <marker date="1528085373597" expanded="true" signature="500:648" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -381,11 +459,11 @@
         <state relative-caret-position="224">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
-            <marker date="1528043515324" expanded="false" signature="6:59" ph="..." />
-            <marker date="1528043515324" expanded="true" signature="123:602" ph="{...}" />
-            <marker date="1528043515324" expanded="true" signature="202:294" ph="{...}" />
-            <marker date="1528043515324" expanded="true" signature="387:491" ph="{...}" />
-            <marker date="1528043515324" expanded="true" signature="540:596" ph="{...}" />
+            <marker date="1528085373593" expanded="false" signature="6:59" ph="..." />
+            <marker date="1528085373593" expanded="true" signature="125:663" ph="{...}" />
+            <marker date="1528085373593" expanded="true" signature="271:363" ph="{...}" />
+            <marker date="1528085373593" expanded="true" signature="448:552" ph="{...}" />
+            <marker date="1528085373593" expanded="true" signature="601:657" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -402,39 +480,70 @@
         <state relative-caret-position="112">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <marker date="1528080112296" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528080112296" expanded="true" signature="113:943" ph="{...}" />
-            <marker date="1528080112296" expanded="true" signature="142:941" ph="{...}" />
-            <marker date="1528080112296" expanded="true" signature="195:935" ph="{...}" />
-            <marker date="1528080112296" expanded="true" signature="723:827" ph="{...}" />
+            <marker date="1528085373602" expanded="false" signature="6:58" ph="..." />
+            <marker date="1528085373602" expanded="true" signature="79:790" ph="{...}" />
+            <marker date="1528085373602" expanded="true" signature="108:788" ph="{...}" />
+            <marker date="1528085373602" expanded="true" signature="161:782" ph="{...}" />
+            <marker date="1528085373602" expanded="true" signature="623:687" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs">
+    <entry file="file://$PROJECT_DIR$/MyExtensions/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="80">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding>
-            <marker date="1528081875530" expanded="false" signature="6:39" ph="..." />
-            <marker date="1528081875530" expanded="true" signature="70:367" ph="{...}" />
-            <marker date="1528081875530" expanded="true" signature="117:365" ph="{...}" />
-            <marker date="1528081875530" expanded="true" signature="185:359" ph="{...}" />
-            <marker date="1528081875530" expanded="true" signature="243:315" ph="{...}" />
+            <marker date="1528085239030" expanded="true" signature="28:68" ph="{...}" />
+            <marker date="1528085239030" expanded="true" signature="54:66" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
+            <marker date="1528085377285" expanded="true" signature="69:324" ph="{...}" />
+            <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
+            <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
+            <marker date="1528085377285" expanded="true" signature="242:272" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <marker date="1528084284522" expanded="true" signature="6:32" ph="..." />
-            <marker date="1528084284522" expanded="true" signature="63:1503" ph="{...}" />
-            <marker date="1528084284522" expanded="true" signature="92:1501" ph="{...}" />
-            <marker date="1528084284522" expanded="true" signature="145:1495" ph="{...}" />
-            <marker date="1528084284522" expanded="true" signature="567:667" ph="/* Get the length of each word as an array with words themselves ... */" />
+            <marker date="1528085377297" expanded="true" signature="6:58" ph="..." />
+            <marker date="1528085377297" expanded="true" signature="89:1489" ph="{...}" />
+            <marker date="1528085377297" expanded="true" signature="118:1487" ph="{...}" />
+            <marker date="1528085377297" expanded="true" signature="171:1481" ph="{...}" />
+            <marker date="1528085377297" expanded="true" signature="566:666" ph="/* Get the length of each word as an array with words themselves ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilteringData/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <marker date="1528085377270" expanded="true" signature="6:44" ph="..." />
+            <marker date="1528085377270" expanded="true" signature="69:633" ph="{...}" />
+            <marker date="1528085377270" expanded="true" signature="98:631" ph="{...}" />
+            <marker date="1528085377270" expanded="true" signature="151:625" ph="{...}" />
           </folding>
         </state>
       </provider>

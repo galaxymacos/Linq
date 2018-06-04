@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\MyExtensionLibrary\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\MyExtensionLibrary\bin\Debug\MyExtensionLibrary.pdb
+C:\Users\galax\RiderProjects\Linq\MyExtensionLibrary\obj\Debug\MyExtensionLibrary.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\MyExtensionLibrary\obj\Debug\MyExtensionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\MyExtensionLibrary\obj\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\MyExtensionLibrary\obj\Debug\MyExtensionLibrary.pdb

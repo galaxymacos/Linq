@@ -4,7 +4,9 @@ namespace LinqDemos
 {
     public class Person
     {
-        private string firstName, middleName, lastName;
+        private readonly string firstName;
+        private readonly string middleName;
+        private readonly string lastName;
 
         public Person(string firstName, string middleName, string lastName)
         {

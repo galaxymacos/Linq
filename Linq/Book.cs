@@ -2,7 +2,7 @@
 {
     public class Book
     {
-        public string Title;
         public float Price;
+        public string Title;
     }
 }

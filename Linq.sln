@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemos", "LinqDemos\Linq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectAndSelectMany", "SelectAndSelectMany\SelectAndSelectMany.csproj", "{F27B0905-08F0-4549-8D07-8D4724315B2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringData", "FilteringData\FilteringData.csproj", "{97138E2D-44B1-4592-9312-2814654C0B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtensionLibrary", "MyExtensionLibrary\MyExtensionLibrary.csproj", "{9DF753D0-C968-4B34-898C-BED7B3D0272F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97138E2D-44B1-4592-9312-2814654C0B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97138E2D-44B1-4592-9312-2814654C0B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97138E2D-44B1-4592-9312-2814654C0B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97138E2D-44B1-4592-9312-2814654C0B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

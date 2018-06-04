@@ -4,3 +4,6 @@ C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectM
 C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.csproj.CoreCompileInputs.cache
 C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.exe
 C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.pdb
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\bin\Debug\MyExtensionLibrary.pdb
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.csproj.CopyComplete

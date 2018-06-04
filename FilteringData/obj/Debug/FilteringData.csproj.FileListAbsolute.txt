@@ -1,0 +1,11 @@
+C:\Users\galax\RiderProjects\Linq\FilteringData\bin\Debug\FilteringData.exe
+C:\Users\galax\RiderProjects\Linq\FilteringData\bin\Debug\FilteringData.pdb
+C:\Users\galax\RiderProjects\Linq\FilteringData\bin\Debug\SelectAndSelectMany.exe
+C:\Users\galax\RiderProjects\Linq\FilteringData\bin\Debug\SelectAndSelectMany.pdb
+C:\Users\galax\RiderProjects\Linq\FilteringData\obj\Debug\FilteringData.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\FilteringData\obj\Debug\FilteringData.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\FilteringData\obj\Debug\FilteringData.csproj.CopyComplete
+C:\Users\galax\RiderProjects\Linq\FilteringData\obj\Debug\FilteringData.exe
+C:\Users\galax\RiderProjects\Linq\FilteringData\obj\Debug\FilteringData.pdb
+C:\Users\galax\RiderProjects\Linq\FilteringData\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\FilteringData\bin\Debug\MyExtensionLibrary.pdb

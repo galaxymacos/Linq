@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\GroupingData\bin\Debug\GroupingData.exe
+C:\Users\galax\RiderProjects\Linq\GroupingData\bin\Debug\GroupingData.pdb
+C:\Users\galax\RiderProjects\Linq\GroupingData\obj\Debug\GroupingData.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\GroupingData\obj\Debug\GroupingData.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\GroupingData\obj\Debug\GroupingData.exe
+C:\Users\galax\RiderProjects\Linq\GroupingData\obj\Debug\GroupingData.pdb

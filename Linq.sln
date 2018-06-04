@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtensionLibrary", "MyExt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingData", "SortingData\SortingData.csproj", "{9F660CCB-641A-4D09-93DA-928B569A42C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingData", "GroupingData\GroupingData.csproj", "{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

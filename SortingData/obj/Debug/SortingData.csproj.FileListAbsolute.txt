@@ -1,0 +1,9 @@
+C:\Users\galax\RiderProjects\Linq\SortingData\bin\Debug\SortingData.exe
+C:\Users\galax\RiderProjects\Linq\SortingData\bin\Debug\SortingData.pdb
+C:\Users\galax\RiderProjects\Linq\SortingData\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\SortingData\bin\Debug\MyExtensionLibrary.pdb
+C:\Users\galax\RiderProjects\Linq\SortingData\obj\Debug\SortingData.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\SortingData\obj\Debug\SortingData.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\SortingData\obj\Debug\SortingData.csproj.CopyComplete
+C:\Users\galax\RiderProjects\Linq\SortingData\obj\Debug\SortingData.exe
+C:\Users\galax\RiderProjects\Linq\SortingData\obj\Debug\SortingData.pdb

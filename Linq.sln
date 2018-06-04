@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilteringData", "FilteringD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtensionLibrary", "MyExtensionLibrary\MyExtensionLibrary.csproj", "{9DF753D0-C968-4B34-898C-BED7B3D0272F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingData", "SortingData\SortingData.csproj", "{9F660CCB-641A-4D09-93DA-928B569A42C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DF753D0-C968-4B34-898C-BED7B3D0272F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F660CCB-641A-4D09-93DA-928B569A42C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

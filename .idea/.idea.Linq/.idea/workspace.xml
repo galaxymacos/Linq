@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/bin/Debug/LinqDemos.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LinqDemos/obj/Debug/LinqDemos.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectAndSelectMany/SelectAndSelectMany.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SelectAndSelectMany/SelectAndSelectMany.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,46 +22,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LinqDemos/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="472">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
               <folding>
-                <marker date="1528079877945" expanded="false" signature="6:92" ph="..." />
-                <marker date="1528079877945" expanded="true" signature="113:1010" ph="{...}" />
-                <marker date="1528079877945" expanded="true" signature="142:1008" ph="{...}" />
-                <marker date="1528079877945" expanded="true" signature="195:1002" ph="{...}" />
-                <marker date="1528079877945" expanded="true" signature="790:894" ph="{...}" />
+                <marker date="1528084284522" expanded="true" signature="6:32" ph="..." />
+                <marker date="1528084284522" expanded="true" signature="63:1503" ph="{...}" />
+                <marker date="1528084284522" expanded="true" signature="92:1501" ph="{...}" />
+                <marker date="1528084284522" expanded="true" signature="145:1495" ph="{...}" />
+                <marker date="1528084284522" expanded="true" signature="567:667" ph="/* Get the length of each word as an array with words themselves ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinqDemos/Person.cs">
+      <file leaf-file-name="EnumerableExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="240">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
-                <marker date="1528047016595" expanded="true" signature="80:591" ph="{...}" />
-                <marker date="1528047016595" expanded="true" signature="219:359" ph="{...}" />
-                <marker date="1528047016595" expanded="true" signature="401:585" ph="{...}" />
-                <marker date="1528047016595" expanded="true" signature="427:575" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Params.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinqDemos/Params.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-              <folding>
-                <marker date="1528043515324" expanded="false" signature="6:59" ph="..." />
-                <marker date="1528043515324" expanded="true" signature="123:602" ph="{...}" />
-                <marker date="1528043515324" expanded="true" signature="202:294" ph="{...}" />
-                <marker date="1528043515324" expanded="true" signature="387:491" ph="{...}" />
-                <marker date="1528043515324" expanded="true" signature="540:596" ph="{...}" />
+                <marker date="1528081875530" expanded="false" signature="6:39" ph="..." />
+                <marker date="1528081875530" expanded="true" signature="70:367" ph="{...}" />
+                <marker date="1528081875530" expanded="true" signature="117:365" ph="{...}" />
+                <marker date="1528081875530" expanded="true" signature="185:359" ph="{...}" />
+                <marker date="1528081875530" expanded="true" signature="243:315" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -82,6 +68,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LinqDemos/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DEBC1CA-F559-4CCF-992A-A9E60810B4D5/32/4d0a3487/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/BookRepository.cs" root0="FORCE_HIGHLIGHTING" />
@@ -99,6 +86,8 @@
         <option value="$PROJECT_DIR$/LinqDemos/Params.cs" />
         <option value="$PROJECT_DIR$/LinqDemos/Person.cs" />
         <option value="$PROJECT_DIR$/LinqDemos/Program.cs" />
+        <option value="$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs" />
+        <option value="$PROJECT_DIR$/SelectAndSelectMany/Program.cs" />
       </list>
     </option>
   </component>
@@ -112,10 +101,13 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="-18" />
-    <option name="width" value="3870" />
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="3868" />
     <option name="height" value="2097" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -129,6 +121,11 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Linq (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Linq (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SelectAndSelectMany" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -155,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.LinqDemos">
+  <component name="RunManager" selected=".NET Project.SelectAndSelectMany">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Linq/bin/Debug/Linq.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -184,12 +181,28 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
     </configuration>
+    <configuration name="SelectAndSelectMany" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug/SelectAndSelectMany.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SelectAndSelectMany/SelectAndSelectMany.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
     <list>
       <item itemvalue=".NET Project.Default" />
       <item itemvalue=".NET Project.LinqDemos" />
+      <item itemvalue=".NET Project.SelectAndSelectMany" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.SelectAndSelectMany" />
         <item itemvalue=".NET Project.LinqDemos" />
       </list>
     </recent_temporary>
@@ -209,12 +222,12 @@
       <workItem from="1526195418342" duration="282000" />
       <workItem from="1526223510688" duration="1820000" />
       <workItem from="1528042999250" duration="4586000" />
-      <workItem from="1528079790038" duration="239000" />
+      <workItem from="1528079790038" duration="3665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13840000" />
+    <option name="totallyTimeSpent" value="17182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,6 +240,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -234,11 +248,12 @@
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17723157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27836412" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24804805" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14234234" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32936507" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -249,7 +264,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32936507" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -267,11 +281,11 @@
         <state relative-caret-position="336">
           <caret line="21" column="67" lean-forward="true" selection-start-line="21" selection-start-column="67" selection-end-line="21" selection-end-column="67" />
           <folding>
-            <marker date="1528079877945" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528079877945" expanded="true" signature="113:1010" ph="{...}" />
-            <marker date="1528079877945" expanded="true" signature="142:1008" ph="{...}" />
-            <marker date="1528079877945" expanded="true" signature="195:1002" ph="{...}" />
-            <marker date="1528079877945" expanded="true" signature="790:894" ph="{...}" />
+            <marker date="1528080112296" expanded="false" signature="6:92" ph="..." />
+            <marker date="1528080112296" expanded="true" signature="113:943" ph="{...}" />
+            <marker date="1528080112296" expanded="true" signature="142:941" ph="{...}" />
+            <marker date="1528080112296" expanded="true" signature="195:935" ph="{...}" />
+            <marker date="1528080112296" expanded="true" signature="723:827" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -385,14 +399,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LinqDemos/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="112">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <marker date="1528079877945" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528079877945" expanded="true" signature="113:1010" ph="{...}" />
-            <marker date="1528079877945" expanded="true" signature="142:1008" ph="{...}" />
-            <marker date="1528079877945" expanded="true" signature="195:1002" ph="{...}" />
-            <marker date="1528079877945" expanded="true" signature="790:894" ph="{...}" />
+            <marker date="1528080112296" expanded="false" signature="6:92" ph="..." />
+            <marker date="1528080112296" expanded="true" signature="113:943" ph="{...}" />
+            <marker date="1528080112296" expanded="true" signature="142:941" ph="{...}" />
+            <marker date="1528080112296" expanded="true" signature="195:935" ph="{...}" />
+            <marker date="1528080112296" expanded="true" signature="723:827" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/EnumerableExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1528081875530" expanded="false" signature="6:39" ph="..." />
+            <marker date="1528081875530" expanded="true" signature="70:367" ph="{...}" />
+            <marker date="1528081875530" expanded="true" signature="117:365" ph="{...}" />
+            <marker date="1528081875530" expanded="true" signature="185:359" ph="{...}" />
+            <marker date="1528081875530" expanded="true" signature="243:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <marker date="1528084284522" expanded="true" signature="6:32" ph="..." />
+            <marker date="1528084284522" expanded="true" signature="63:1503" ph="{...}" />
+            <marker date="1528084284522" expanded="true" signature="92:1501" ph="{...}" />
+            <marker date="1528084284522" expanded="true" signature="145:1495" ph="{...}" />
+            <marker date="1528084284522" expanded="true" signature="567:667" ph="/* Get the length of each word as an array with words themselves ... */" />
           </folding>
         </state>
       </provider>

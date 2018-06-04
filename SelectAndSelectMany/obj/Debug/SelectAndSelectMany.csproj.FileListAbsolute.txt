@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\bin\Debug\SelectAndSelectMany.exe
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\bin\Debug\SelectAndSelectMany.pdb
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.exe
+C:\Users\galax\RiderProjects\Linq\SelectAndSelectMany\obj\Debug\SelectAndSelectMany.pdb

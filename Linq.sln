@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemos", "LinqDemos\LinqDemos.csproj", "{5003E9C7-AF90-40CD-8077-770A7A6FF9F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectAndSelectMany", "SelectAndSelectMany\SelectAndSelectMany.csproj", "{F27B0905-08F0-4549-8D07-8D4724315B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5003E9C7-AF90-40CD-8077-770A7A6FF9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5003E9C7-AF90-40CD-8077-770A7A6FF9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5003E9C7-AF90-40CD-8077-770A7A6FF9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27B0905-08F0-4549-8D07-8D4724315B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

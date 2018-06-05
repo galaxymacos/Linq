@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\galax\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Linq.-1650085950.00" t="ExcludeRecursive" />
-    <e p="C:\Users\galax\RiderProjects\Linq" t="IncludeFlat">
+    <e p="C:\Users\Paul\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_Linq.1823091725.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Paul\RiderProjects\Linq" t="IncludeFlat">
+      <e p="ElementOperations" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ElementOperations.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
       <e p="EqualityOperators" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="EqualityOperators.csproj" t="IncludeRecursive" />

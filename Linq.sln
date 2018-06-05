@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperators", "Equali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEqualityOperator", "TestEqualityOperator\TestEqualityOperator.csproj", "{7CBD7E1A-1B4A-4216-A63B-843C748FA205}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperations", "ElementOperations\ElementOperations.csproj", "{A65EA116-DE77-4DC1-9CB1-A36679DADC65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65EA116-DE77-4DC1-9CB1-A36679DADC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65EA116-DE77-4DC1-9CB1-A36679DADC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65EA116-DE77-4DC1-9CB1-A36679DADC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65EA116-DE77-4DC1-9CB1-A36679DADC65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

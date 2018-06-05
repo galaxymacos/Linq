@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitioningData", "Partiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinOperations", "JoinOperations\JoinOperations.csproj", "{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperators", "EqualityOperators\EqualityOperators.csproj", "{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

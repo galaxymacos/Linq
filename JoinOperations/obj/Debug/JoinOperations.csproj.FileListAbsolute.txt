@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\JoinOperations\bin\Debug\JoinOperations.exe
+C:\Users\galax\RiderProjects\Linq\JoinOperations\bin\Debug\JoinOperations.pdb
+C:\Users\galax\RiderProjects\Linq\JoinOperations\obj\Debug\JoinOperations.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\JoinOperations\obj\Debug\JoinOperations.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\JoinOperations\obj\Debug\JoinOperations.exe
+C:\Users\galax\RiderProjects\Linq\JoinOperations\obj\Debug\JoinOperations.pdb

@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\EqualityOperators\bin\Debug\EqualityOperators.exe
+C:\Users\galax\RiderProjects\Linq\EqualityOperators\bin\Debug\EqualityOperators.pdb
+C:\Users\galax\RiderProjects\Linq\EqualityOperators\obj\Debug\EqualityOperators.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\EqualityOperators\obj\Debug\EqualityOperators.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\EqualityOperators\obj\Debug\EqualityOperators.exe
+C:\Users\galax\RiderProjects\Linq\EqualityOperators\obj\Debug\EqualityOperators.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace EqualityOperators
 {
-    internal class Program
+    public class Program
     {
         public static void Main(string[] args)
         {

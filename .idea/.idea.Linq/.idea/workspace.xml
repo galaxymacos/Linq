@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="+ Grouping data">
+    <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoinOperations/bin/Debug/JoinOperations.exe" beforeDir="false" afterPath="$PROJECT_DIR$/JoinOperations/bin/Debug/JoinOperations.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JoinOperations/bin/Debug/JoinOperations.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JoinOperations/bin/Debug/JoinOperations.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityOperators/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JoinOperations/obj/Debug/JoinOperations.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JoinOperations/obj/Debug/JoinOperations.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linq.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Linq.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuantifierOperations/obj/Debug/QuantifierOperations.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/QuantifierOperations/obj/Debug/QuantifierOperations.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SetOperations/obj/Debug/SetOperations.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SetOperations/obj/Debug/SetOperations.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +24,7 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GroupingData/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="752">
+            <state relative-caret-position="704">
               <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <marker date="1528151866262" expanded="false" signature="6:66" ph="..." />
@@ -40,11 +44,10 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SetOperations/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
+            <state relative-caret-position="480">
               <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               <folding>
                 <marker date="1528163549047" expanded="true" signature="6:66" ph="..." />
-                <marker date="1528163549047" expanded="true" signature="91:1483" ph="{...}" />
                 <marker date="1528163549047" expanded="true" signature="120:1481" ph="{...}" />
                 <marker date="1528163549047" expanded="true" signature="173:1475" ph="{...}" />
                 <marker date="1528163549047" expanded="true" signature="527:602" ph="{...}" />
@@ -63,7 +66,6 @@
               <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <marker date="1528164769317" expanded="true" signature="6:32" ph="..." />
-                <marker date="1528164769317" expanded="true" signature="64:792" ph="{...}" />
                 <marker date="1528164769317" expanded="true" signature="93:790" ph="{...}" />
                 <marker date="1528164769317" expanded="true" signature="146:784" ph="{...}" />
               </folding>
@@ -78,7 +80,6 @@
               <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding>
                 <marker date="1528167283963" expanded="true" signature="6:32" ph="..." />
-                <marker date="1528167283963" expanded="true" signature="86:554" ph="{...}" />
                 <marker date="1528167283963" expanded="true" signature="115:552" ph="{...}" />
                 <marker date="1528167283963" expanded="true" signature="168:546" ph="{...}" />
               </folding>
@@ -89,11 +90,10 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JoinOperations/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
+            <state relative-caret-position="928">
               <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
               <folding>
                 <marker date="1528170259675" expanded="true" signature="6:57" ph="..." />
-                <marker date="1528170259675" expanded="true" signature="83:1927" ph="{...}" />
                 <marker date="1528170259675" expanded="true" signature="109:278" ph="{...}" />
                 <marker date="1528170259675" expanded="true" signature="200:272" ph="{...}" />
                 <marker date="1528170259675" expanded="true" signature="303:480" ph="{...}" />
@@ -110,16 +110,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EqualityOperators/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="288">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding>
-                <marker date="1528170737699" expanded="true" signature="6:66" ph="..." />
-                <marker date="1528170737699" expanded="true" signature="95:632" ph="{...}" />
-                <marker date="1528170737699" expanded="true" signature="124:630" ph="{...}" />
-                <marker date="1528170737699" expanded="true" signature="177:624" ph="{...}" />
+                <marker date="1528199116173" expanded="false" signature="6:66" ph="..." />
+                <marker date="1528199116173" expanded="true" signature="95:630" ph="{...}" />
+                <marker date="1528199116173" expanded="true" signature="122:628" ph="{...}" />
+                <marker date="1528199116173" expanded="true" signature="175:622" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <marker date="1528199320209" expanded="false" signature="6:89" ph="..." />
+                <marker date="1528199320209" expanded="true" signature="121:548" ph="{...}" />
+                <marker date="1528199320209" expanded="true" signature="164:546" ph="{...}" />
+                <marker date="1528199320209" expanded="true" signature="213:540" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -132,7 +147,6 @@
               <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <marker date="1528085377270" expanded="false" signature="6:44" ph="..." />
-                <marker date="1528085377270" expanded="true" signature="69:633" ph="{...}" />
                 <marker date="1528085377270" expanded="true" signature="98:631" ph="{...}" />
                 <marker date="1528085377270" expanded="true" signature="151:625" ph="{...}" />
               </folding>
@@ -147,7 +161,6 @@
               <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding>
                 <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
-                <marker date="1528085377285" expanded="true" signature="69:324" ph="{...}" />
                 <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
                 <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
               </folding>
@@ -176,6 +189,7 @@
     <setting file="file://$PROJECT_DIR$/Linq/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/BookRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LinqDemos/Params.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LinqDemos/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuantifierOperations/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -213,6 +227,7 @@
         <option value="$PROJECT_DIR$/QuantifierOperations/Program.cs" />
         <option value="$PROJECT_DIR$/PartitioningData/Program.cs" />
         <option value="$PROJECT_DIR$/JoinOperations/Program.cs" />
+        <option value="$PROJECT_DIR$/TestEqualityOperator/Tests.cs" />
         <option value="$PROJECT_DIR$/EqualityOperators/Program.cs" />
       </list>
     </option>
@@ -227,9 +242,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-14" />
-    <option name="width" value="3868" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3870" />
     <option name="height" value="2097" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -245,7 +260,17 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Linq (12 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Linq (13 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Linq (13 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="EqualityOperators" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Linq (13 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="TestEqualityOperator" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -395,7 +420,8 @@
       <workItem from="1528079790038" duration="4757000" />
       <workItem from="1528085396296" duration="3811000" />
       <workItem from="1528147091235" duration="3565000" />
-      <workItem from="1528151926040" duration="11555000" />
+      <workItem from="1528151926040" duration="11579000" />
+      <workItem from="1528198551797" duration="844000" />
     </task>
     <task id="LOCAL-00001" summary="+ Grouping data">
       <created>1528151945153</created>
@@ -446,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528170276155</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="+ Equality Operators">
+      <created>1528175551785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1528175551785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37205000" />
+    <option name="totallyTimeSpent" value="38073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,25 +501,25 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.32988358" />
-      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" visible="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3263158" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.28708708" />
+      <window_info anchor="right" id="Run" order="5" visible="true" weight="0.28708708" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="NuGet" order="11" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.14834835" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15015015" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.32858992" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32858992" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -504,23 +537,130 @@
     <MESSAGE value="+ Quanifier Operations" />
     <MESSAGE value="+ Partitioning Data" />
     <MESSAGE value="+ Grouping data" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Grouping data" />
+    <MESSAGE value="+ Equality Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Equality Operators" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GroupingData/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <marker date="1528151866262" expanded="false" signature="6:66" ph="..." />
+            <marker date="1528151866262" expanded="true" signature="90:1515" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="116:337" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="243:331" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="369:1513" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="422:1507" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="487:817" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="1252:1497" ph="{...}" />
+            <marker date="1528151866262" expanded="true" signature="1367:1445" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SetOperations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+          <folding>
+            <marker date="1528163549047" expanded="true" signature="6:66" ph="..." />
+            <marker date="1528163549047" expanded="true" signature="120:1481" ph="{...}" />
+            <marker date="1528163549047" expanded="true" signature="173:1475" ph="{...}" />
+            <marker date="1528163549047" expanded="true" signature="527:602" ph="{...}" />
+            <marker date="1528163549047" expanded="true" signature="817:883" ph="{...}" />
+            <marker date="1528163549047" expanded="true" signature="1075:1141" ph="{...}" />
+            <marker date="1528163549047" expanded="true" signature="1365:1431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuantifierOperations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1528164769317" expanded="true" signature="6:32" ph="..." />
+            <marker date="1528164769317" expanded="true" signature="93:790" ph="{...}" />
+            <marker date="1528164769317" expanded="true" signature="146:784" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitioningData/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1528167283963" expanded="true" signature="6:32" ph="..." />
+            <marker date="1528167283963" expanded="true" signature="115:552" ph="{...}" />
+            <marker date="1528167283963" expanded="true" signature="168:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JoinOperations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+          <folding>
+            <marker date="1528170259675" expanded="true" signature="6:57" ph="..." />
+            <marker date="1528170259675" expanded="true" signature="109:278" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="200:272" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="303:480" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="398:474" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="508:1925" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="561:1919" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="622:791" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="845:1030" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="1262:1367" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="1664:1909" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="1800:1895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FilteringData/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1528085377270" expanded="false" signature="6:44" ph="..." />
+            <marker date="1528085377270" expanded="true" signature="98:631" ph="{...}" />
+            <marker date="1528085377270" expanded="true" signature="151:625" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
+            <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
+            <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EqualityOperators/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1528199116173" expanded="false" signature="6:66" ph="..." />
+            <marker date="1528199116173" expanded="true" signature="95:630" ph="{...}" />
+            <marker date="1528199116173" expanded="true" signature="122:628" ph="{...}" />
+            <marker date="1528199116173" expanded="true" signature="175:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SortingData/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="16" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1528088923321" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528088923321" expanded="true" signature="115:1714" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="141:362" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="268:356" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="394:1712" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="447:1706" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="732:845" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="1173:1418" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -546,16 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <marker date="1528088923321" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528088923321" expanded="true" signature="115:1714" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="141:362" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="268:356" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="394:1712" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="447:1706" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="732:845" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="1173:1418" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,22 +829,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="16" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1528088923321" expanded="false" signature="6:92" ph="..." />
-            <marker date="1528088923321" expanded="true" signature="115:1714" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="141:362" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="268:356" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="394:1712" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="447:1706" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="732:845" ph="{...}" />
-            <marker date="1528088923321" expanded="true" signature="1173:1418" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GroupingData/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="752">
+        <state relative-caret-position="704">
           <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding>
             <marker date="1528151866262" expanded="false" signature="6:66" ph="..." />
@@ -739,11 +859,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SetOperations/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
+        <state relative-caret-position="480">
           <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
             <marker date="1528163549047" expanded="true" signature="6:66" ph="..." />
-            <marker date="1528163549047" expanded="true" signature="91:1483" ph="{...}" />
             <marker date="1528163549047" expanded="true" signature="120:1481" ph="{...}" />
             <marker date="1528163549047" expanded="true" signature="173:1475" ph="{...}" />
             <marker date="1528163549047" expanded="true" signature="527:602" ph="{...}" />
@@ -760,7 +879,6 @@
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
             <marker date="1528164769317" expanded="true" signature="6:32" ph="..." />
-            <marker date="1528164769317" expanded="true" signature="64:792" ph="{...}" />
             <marker date="1528164769317" expanded="true" signature="93:790" ph="{...}" />
             <marker date="1528164769317" expanded="true" signature="146:784" ph="{...}" />
           </folding>
@@ -773,7 +891,6 @@
           <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
           <folding>
             <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
-            <marker date="1528085377285" expanded="true" signature="69:324" ph="{...}" />
             <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
             <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
           </folding>
@@ -786,7 +903,6 @@
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding>
             <marker date="1528167283963" expanded="true" signature="6:32" ph="..." />
-            <marker date="1528167283963" expanded="true" signature="86:554" ph="{...}" />
             <marker date="1528167283963" expanded="true" signature="115:552" ph="{...}" />
             <marker date="1528167283963" expanded="true" signature="168:546" ph="{...}" />
           </folding>
@@ -799,7 +915,6 @@
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <marker date="1528085377270" expanded="false" signature="6:44" ph="..." />
-            <marker date="1528085377270" expanded="true" signature="69:633" ph="{...}" />
             <marker date="1528085377270" expanded="true" signature="98:631" ph="{...}" />
             <marker date="1528085377270" expanded="true" signature="151:625" ph="{...}" />
           </folding>
@@ -808,11 +923,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JoinOperations/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
+        <state relative-caret-position="928">
           <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
           <folding>
             <marker date="1528170259675" expanded="true" signature="6:57" ph="..." />
-            <marker date="1528170259675" expanded="true" signature="83:1927" ph="{...}" />
             <marker date="1528170259675" expanded="true" signature="109:278" ph="{...}" />
             <marker date="1528170259675" expanded="true" signature="200:272" ph="{...}" />
             <marker date="1528170259675" expanded="true" signature="303:480" ph="{...}" />
@@ -830,13 +944,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/EqualityOperators/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="288">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <marker date="1528170737699" expanded="true" signature="6:66" ph="..." />
-            <marker date="1528170737699" expanded="true" signature="95:632" ph="{...}" />
-            <marker date="1528170737699" expanded="true" signature="124:630" ph="{...}" />
-            <marker date="1528170737699" expanded="true" signature="177:624" ph="{...}" />
+            <marker date="1528199116173" expanded="false" signature="6:66" ph="..." />
+            <marker date="1528199116173" expanded="true" signature="95:630" ph="{...}" />
+            <marker date="1528199116173" expanded="true" signature="122:628" ph="{...}" />
+            <marker date="1528199116173" expanded="true" signature="175:622" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1528199320209" expanded="false" signature="6:89" ph="..." />
+            <marker date="1528199320209" expanded="true" signature="121:548" ph="{...}" />
+            <marker date="1528199320209" expanded="true" signature="164:546" ph="{...}" />
+            <marker date="1528199320209" expanded="true" signature="213:540" ph="{...}" />
           </folding>
         </state>
       </provider>

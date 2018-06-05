@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinOperations", "JoinOpera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperators", "EqualityOperators\EqualityOperators.csproj", "{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEqualityOperator", "TestEqualityOperator\TestEqualityOperator.csproj", "{7CBD7E1A-1B4A-4216-A63B-843C748FA205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDF409F6-CA65-48B7-A24E-6FDA7F3E9F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBD7E1A-1B4A-4216-A63B-843C748FA205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

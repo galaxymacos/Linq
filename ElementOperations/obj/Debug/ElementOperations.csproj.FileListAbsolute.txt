@@ -1,6 +1,6 @@
-C:\Users\Paul\RiderProjects\Linq\ElementOperations\bin\Debug\ElementOperations.exe
-C:\Users\Paul\RiderProjects\Linq\ElementOperations\bin\Debug\ElementOperations.pdb
-C:\Users\Paul\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.csprojAssemblyReference.cache
-C:\Users\Paul\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.csproj.CoreCompileInputs.cache
-C:\Users\Paul\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.exe
-C:\Users\Paul\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.pdb
+C:\Users\galax\RiderProjects\Linq\ElementOperations\bin\Debug\ElementOperations.exe
+C:\Users\galax\RiderProjects\Linq\ElementOperations\bin\Debug\ElementOperations.pdb
+C:\Users\galax\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.exe
+C:\Users\galax\RiderProjects\Linq\ElementOperations\obj\Debug\ElementOperations.pdb

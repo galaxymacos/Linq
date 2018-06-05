@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingData", "SortingData\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupingData", "GroupingData\GroupingData.csproj", "{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetOperations", "SetOperations\SetOperations.csproj", "{7C393CD2-989C-4BCB-BDD4-21603E5F2A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2162EEAD-36E6-477A-8B5B-1DFD5B9AB2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C393CD2-989C-4BCB-BDD4-21603E5F2A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C393CD2-989C-4BCB-BDD4-21603E5F2A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C393CD2-989C-4BCB-BDD4-21603E5F2A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C393CD2-989C-4BCB-BDD4-21603E5F2A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

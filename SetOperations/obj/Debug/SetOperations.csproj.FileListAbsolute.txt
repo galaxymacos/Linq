@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\SetOperations\bin\Debug\SetOperations.exe
+C:\Users\galax\RiderProjects\Linq\SetOperations\bin\Debug\SetOperations.pdb
+C:\Users\galax\RiderProjects\Linq\SetOperations\obj\Debug\SetOperations.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\SetOperations\obj\Debug\SetOperations.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\SetOperations\obj\Debug\SetOperations.exe
+C:\Users\galax\RiderProjects\Linq\SetOperations\obj\Debug\SetOperations.pdb

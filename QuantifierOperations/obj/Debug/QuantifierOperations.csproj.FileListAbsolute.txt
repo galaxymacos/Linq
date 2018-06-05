@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\Linq\QuantifierOperations\bin\Debug\QuantifierOperations.exe
+C:\Users\galax\RiderProjects\Linq\QuantifierOperations\bin\Debug\QuantifierOperations.pdb
+C:\Users\galax\RiderProjects\Linq\QuantifierOperations\obj\Debug\QuantifierOperations.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\QuantifierOperations\obj\Debug\QuantifierOperations.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\QuantifierOperations\obj\Debug\QuantifierOperations.exe
+C:\Users\galax\RiderProjects\Linq\QuantifierOperations\obj\Debug\QuantifierOperations.pdb

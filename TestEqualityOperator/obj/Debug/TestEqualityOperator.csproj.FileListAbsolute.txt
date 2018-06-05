@@ -1,0 +1,9 @@
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\bin\Debug\TestEqualityOperator.dll
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\bin\Debug\TestEqualityOperator.pdb
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\bin\Debug\nunit.framework.dll
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\bin\Debug\nunit.framework.xml
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\obj\Debug\TestEqualityOperator.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\obj\Debug\TestEqualityOperator.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\obj\Debug\TestEqualityOperator.csproj.CopyComplete
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\obj\Debug\TestEqualityOperator.dll
+C:\Users\galax\RiderProjects\Linq\TestEqualityOperator\obj\Debug\TestEqualityOperator.pdb

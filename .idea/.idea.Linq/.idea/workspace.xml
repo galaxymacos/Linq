@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="">
+    <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="+ Partitioning Data">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linq.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Linq.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SetOperations/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SetOperations/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SetOperations/bin/Debug/SetOperations.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SetOperations/bin/Debug/SetOperations.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SetOperations/bin/Debug/SetOperations.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SetOperations/bin/Debug/SetOperations.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartitioningData/bin/Debug/PartitioningData.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PartitioningData/bin/Debug/PartitioningData.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PartitioningData/bin/Debug/PartitioningData.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PartitioningData/bin/Debug/PartitioningData.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,16 +56,70 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QuantifierOperations/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <marker date="1528164769317" expanded="true" signature="6:32" ph="..." />
                 <marker date="1528164769317" expanded="true" signature="64:792" ph="{...}" />
                 <marker date="1528164769317" expanded="true" signature="93:790" ph="{...}" />
                 <marker date="1528164769317" expanded="true" signature="146:784" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PartitioningData/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+              <folding>
+                <marker date="1528167283963" expanded="true" signature="6:32" ph="..." />
+                <marker date="1528167283963" expanded="true" signature="86:554" ph="{...}" />
+                <marker date="1528167283963" expanded="true" signature="115:552" ph="{...}" />
+                <marker date="1528167283963" expanded="true" signature="168:546" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JoinOperations/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+              <folding>
+                <marker date="1528170259675" expanded="true" signature="6:57" ph="..." />
+                <marker date="1528170259675" expanded="true" signature="83:1927" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="109:278" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="200:272" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="303:480" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="398:474" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="508:1925" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="561:1919" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="622:791" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="845:1030" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="1262:1367" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="1664:1909" ph="{...}" />
+                <marker date="1528170259675" expanded="true" signature="1800:1895" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnumerableExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding>
+                <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
+                <marker date="1528085377285" expanded="true" signature="69:324" ph="{...}" />
+                <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
+                <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,11 +149,13 @@
     <setting file="file://$PROJECT_DIR$/Linq/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/QuantifierOperations/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JoinOperations/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GroupingData/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FilteringData/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DEBC1CA-F559-4CCF-992A-A9E60810B4D5/32/4d0a3487/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SetOperations/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PartitioningData/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,6 +180,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DEBC1CA-F559-4CCF-992A-A9E60810B4D5/32/4d0a3487/Enumerable.cs" />
         <option value="$PROJECT_DIR$/SetOperations/Program.cs" />
         <option value="$PROJECT_DIR$/QuantifierOperations/Program.cs" />
+        <option value="$PROJECT_DIR$/PartitioningData/Program.cs" />
+        <option value="$PROJECT_DIR$/JoinOperations/Program.cs" />
       </list>
     </option>
   </component>
@@ -156,7 +213,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Linq (9 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Linq (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Linq (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MyExtensionLibrary" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -185,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.QuantifierOperations">
+  <component name="RunManager" selected=".NET Project.JoinOperations">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Linq/bin/Debug/Linq.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -200,20 +262,6 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
     </configuration>
-    <configuration name="FilteringData" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FilteringData/bin/Debug/FilteringData.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FilteringData/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FilteringData/FilteringData.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
-    </configuration>
     <configuration name="GroupingData" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/GroupingData/bin/Debug/GroupingData.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -222,6 +270,34 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/GroupingData/GroupingData.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+    <configuration name="JoinOperations" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/JoinOperations/bin/Debug/JoinOperations.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JoinOperations/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JoinOperations/JoinOperations.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
+    <configuration name="PartitioningData" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PartitioningData/bin/Debug/PartitioningData.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PartitioningData/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PartitioningData/PartitioningData.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -256,35 +332,21 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
     </configuration>
-    <configuration name="SortingData" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SortingData/bin/Debug/SortingData.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortingData/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SortingData/SortingData.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
-    </configuration>
     <list>
       <item itemvalue=".NET Project.Default" />
-      <item itemvalue=".NET Project.FilteringData" />
-      <item itemvalue=".NET Project.SortingData" />
       <item itemvalue=".NET Project.GroupingData" />
       <item itemvalue=".NET Project.SetOperations" />
       <item itemvalue=".NET Project.QuantifierOperations" />
+      <item itemvalue=".NET Project.PartitioningData" />
+      <item itemvalue=".NET Project.JoinOperations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.JoinOperations" />
+        <item itemvalue=".NET Project.PartitioningData" />
         <item itemvalue=".NET Project.QuantifierOperations" />
         <item itemvalue=".NET Project.SetOperations" />
         <item itemvalue=".NET Project.GroupingData" />
-        <item itemvalue=".NET Project.SortingData" />
-        <item itemvalue=".NET Project.FilteringData" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +368,7 @@
       <workItem from="1528079790038" duration="4757000" />
       <workItem from="1528085396296" duration="3811000" />
       <workItem from="1528147091235" duration="3565000" />
-      <workItem from="1528151926040" duration="5687000" />
+      <workItem from="1528151926040" duration="10472000" />
     </task>
     <task id="LOCAL-00001" summary="+ Grouping data">
       <created>1528151945153</created>
@@ -336,11 +398,25 @@
       <option name="project" value="LOCAL" />
       <updated>1528162917975</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ Quanifier Operations">
+      <created>1528165504427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528165504427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+ Partitioning Data">
+      <created>1528167301189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528167301189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31337000" />
+    <option name="totallyTimeSpent" value="36122000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +468,9 @@
     <MESSAGE value="+ Grouping data" />
     <MESSAGE value="- delete empty directory" />
     <MESSAGE value="+ Set Operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Set Operations" />
+    <MESSAGE value="+ Quanifier Operations" />
+    <MESSAGE value="+ Partitioning Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Partitioning Data" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SortingData/Program.cs">
@@ -565,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -659,12 +730,60 @@
     <entry file="file://$PROJECT_DIR$/QuantifierOperations/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
             <marker date="1528164769317" expanded="true" signature="6:32" ph="..." />
             <marker date="1528164769317" expanded="true" signature="64:792" ph="{...}" />
             <marker date="1528164769317" expanded="true" signature="93:790" ph="{...}" />
             <marker date="1528164769317" expanded="true" signature="146:784" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyExtensionLibrary/EnumerableExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <marker date="1528085377285" expanded="false" signature="6:39" ph="..." />
+            <marker date="1528085377285" expanded="true" signature="69:324" ph="{...}" />
+            <marker date="1528085377285" expanded="true" signature="116:322" ph="{...}" />
+            <marker date="1528085377285" expanded="true" signature="184:316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PartitioningData/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <marker date="1528167283963" expanded="true" signature="6:32" ph="..." />
+            <marker date="1528167283963" expanded="true" signature="86:554" ph="{...}" />
+            <marker date="1528167283963" expanded="true" signature="115:552" ph="{...}" />
+            <marker date="1528167283963" expanded="true" signature="168:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JoinOperations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+          <folding>
+            <marker date="1528170259675" expanded="true" signature="6:57" ph="..." />
+            <marker date="1528170259675" expanded="true" signature="83:1927" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="109:278" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="200:272" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="303:480" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="398:474" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="508:1925" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="561:1919" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="622:791" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="845:1030" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="1262:1367" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="1664:1909" ph="{...}" />
+            <marker date="1528170259675" expanded="true" signature="1800:1895" ph="{...}" />
           </folding>
         </state>
       </provider>

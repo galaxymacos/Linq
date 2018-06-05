@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantifierOperations", "Qua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitioningData", "PartitioningData\PartitioningData.csproj", "{28828AA4-EF07-414A-84E6-6D820EAC52DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinOperations", "JoinOperations\JoinOperations.csproj", "{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{28828AA4-EF07-414A-84E6-6D820EAC52DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28828AA4-EF07-414A-84E6-6D820EAC52DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28828AA4-EF07-414A-84E6-6D820EAC52DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD72A89-10AC-41F4-8D25-2DA2E5234C15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

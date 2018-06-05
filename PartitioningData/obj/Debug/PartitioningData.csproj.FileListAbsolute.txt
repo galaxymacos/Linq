@@ -1,0 +1,9 @@
+C:\Users\galax\RiderProjects\Linq\PartitioningData\bin\Debug\PartitioningData.exe
+C:\Users\galax\RiderProjects\Linq\PartitioningData\bin\Debug\PartitioningData.pdb
+C:\Users\galax\RiderProjects\Linq\PartitioningData\obj\Debug\PartitioningData.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\PartitioningData\obj\Debug\PartitioningData.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\PartitioningData\obj\Debug\PartitioningData.exe
+C:\Users\galax\RiderProjects\Linq\PartitioningData\obj\Debug\PartitioningData.pdb
+C:\Users\galax\RiderProjects\Linq\PartitioningData\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\PartitioningData\bin\Debug\MyExtensionLibrary.pdb
+C:\Users\galax\RiderProjects\Linq\PartitioningData\obj\Debug\PartitioningData.csproj.CopyComplete

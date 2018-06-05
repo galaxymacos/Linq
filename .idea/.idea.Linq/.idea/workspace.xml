@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Linq1/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Linq1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linq.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Linq.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,11 +34,10 @@
       <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="238">
               <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <marker date="1528203286292" expanded="false" signature="6:89" ph="..." />
-                <marker date="1528203286292" expanded="true" signature="121:548" ph="{...}" />
                 <marker date="1528203286292" expanded="true" signature="164:546" ph="{...}" />
                 <marker date="1528203286292" expanded="true" signature="213:540" ph="{...}" />
               </folding>
@@ -59,10 +48,10 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ElementOperations/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+            <state relative-caret-position="255">
+              <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
               <folding>
-                <marker date="1528225807008" expanded="true" signature="6:47" ph="..." />
+                <marker date="1528225807008" expanded="false" signature="6:66" ph="..." />
                 <marker date="1528225807008" expanded="true" signature="95:789" ph="{...}" />
                 <marker date="1528225807008" expanded="true" signature="124:787" ph="{...}" />
                 <marker date="1528225807008" expanded="true" signature="177:781" ph="{...}" />
@@ -318,6 +307,7 @@
       <workItem from="1528151926040" duration="11579000" />
       <workItem from="1528198551797" duration="844000" />
       <workItem from="1528222736888" duration="2914000" />
+      <workItem from="1528239574698" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="+ Grouping data">
       <created>1528151945153</created>
@@ -375,11 +365,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528175551785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="+ Element Operations (half done)">
+      <created>1528239611439</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1528239611439</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41705000" />
+    <option name="totallyTimeSpent" value="41759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,9 +399,8 @@
       <window_info anchor="right" id="Run" order="5" weight="0.28652138" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="NuGet" order="11" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15254237" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15496369" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.32783884" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -415,6 +411,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="13" visible="true" weight="0.32783884" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -433,7 +430,8 @@
     <MESSAGE value="+ Partitioning Data" />
     <MESSAGE value="+ Grouping data" />
     <MESSAGE value="+ Equality Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Equality Operators" />
+    <MESSAGE value="+ Element Operations (half done)" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Element Operations (half done)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FilteringData/FilteringData.csproj">
@@ -745,11 +743,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="238">
           <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <marker date="1528203286292" expanded="false" signature="6:89" ph="..." />
-            <marker date="1528203286292" expanded="true" signature="121:548" ph="{...}" />
             <marker date="1528203286292" expanded="true" signature="164:546" ph="{...}" />
             <marker date="1528203286292" expanded="true" signature="213:540" ph="{...}" />
           </folding>
@@ -758,10 +755,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ElementOperations/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+        <state relative-caret-position="255">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           <folding>
-            <marker date="1528225807008" expanded="true" signature="6:47" ph="..." />
+            <marker date="1528225807008" expanded="false" signature="6:66" ph="..." />
             <marker date="1528225807008" expanded="true" signature="95:789" ph="{...}" />
             <marker date="1528225807008" expanded="true" signature="124:787" ph="{...}" />
             <marker date="1528225807008" expanded="true" signature="177:781" ph="{...}" />

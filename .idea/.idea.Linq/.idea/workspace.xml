@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="+ Element Operations">
+    <list default="true" id="87cfdfa3-4627-4973-84aa-d811e69452a0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ElementOperations/obj/Debug/ElementOperations.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ElementOperations/obj/Debug/ElementOperations.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/bin/Debug/EqualityOperators.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EqualityOperators/obj/Debug/EqualityOperators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcatenationOperators/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConcatenationOperators/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcatenationOperators/bin/Debug/ConcatenationOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConcatenationOperators/bin/Debug/ConcatenationOperators.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConcatenationOperators/bin/Debug/ConcatenationOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConcatenationOperators/bin/Debug/ConcatenationOperators.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Linq.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Linq.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SetOperations/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
-              <folding>
-                <marker date="1528163549047" expanded="true" signature="6:66" ph="..." />
-                <marker date="1528163549047" expanded="true" signature="120:1481" ph="{...}" />
-                <marker date="1528163549047" expanded="true" signature="173:1475" ph="{...}" />
-                <marker date="1528163549047" expanded="true" signature="527:602" ph="{...}" />
-                <marker date="1528163549047" expanded="true" signature="817:883" ph="{...}" />
-                <marker date="1528163549047" expanded="true" signature="1075:1141" ph="{...}" />
-                <marker date="1528163549047" expanded="true" signature="1365:1431" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QuantifierOperations/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,34 +79,50 @@
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ElementOperations/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ConcatenationOperators/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+            <state relative-caret-position="288">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
-                <marker date="1528240997518" expanded="false" signature="6:66" ph="..." />
-                <marker date="1528240997518" expanded="true" signature="95:955" ph="{...}" />
-                <marker date="1528240997518" expanded="true" signature="124:953" ph="{...}" />
-                <marker date="1528240997518" expanded="true" signature="177:947" ph="{...}" />
-                <marker date="1528240997518" expanded="true" signature="406:527" ph="/* Console.WriteLine(numbers.Single()); ... */" />
+                <marker date="1528244452915" expanded="true" signature="6:78" ph="..." />
+                <marker date="1528244452915" expanded="true" signature="112:831" ph="{...}" />
+                <marker date="1528244452915" expanded="true" signature="141:541" ph="{...}" />
+                <marker date="1528244452915" expanded="true" signature="194:535" ph="{...}" />
+                <marker date="1528244452915" expanded="true" signature="576:829" ph="{...}" />
+                <marker date="1528244452915" expanded="true" signature="667:823" ph="{...}" />
+                <marker date="1528244452915" expanded="true" signature="750:813" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AggregationOperations/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+              <folding>
+                <marker date="1528249697728" expanded="true" signature="6:114" ph="..." />
+                <marker date="1528249697728" expanded="true" signature="147:1443" ph="{...}" />
+                <marker date="1528249697728" expanded="true" signature="176:1441" ph="{...}" />
+                <marker date="1528249697728" expanded="true" signature="229:1163" ph="{...}" />
+                <marker date="1528249697728" expanded="true" signature="1235:1417" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ConcatenationOperators/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="288">
+              <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
               <folding>
-                <marker date="1528243658444" expanded="true" signature="6:78" ph="..." />
-                <marker date="1528243658444" expanded="true" signature="112:827" ph="{...}" />
-                <marker date="1528243658444" expanded="true" signature="141:537" ph="{...}" />
-                <marker date="1528243658444" expanded="true" signature="194:531" ph="{...}" />
-                <marker date="1528243658444" expanded="true" signature="572:825" ph="{...}" />
-                <marker date="1528243658444" expanded="true" signature="663:819" ph="{...}" />
-                <marker date="1528243658444" expanded="true" signature="746:809" ph="{...}" />
+                <marker date="1528085377297" expanded="false" signature="6:58" ph="..." />
+                <marker date="1528085377297" expanded="true" signature="89:1489" ph="{...}" />
+                <marker date="1528085377297" expanded="true" signature="118:1487" ph="{...}" />
+                <marker date="1528085377297" expanded="true" signature="171:1481" ph="{...}" />
+                <marker date="1528085377297" expanded="true" signature="566:666" ph="/* Get the length of each word as an array with words themselves ... */" />
               </folding>
             </state>
           </provider>
@@ -195,6 +190,7 @@
     <setting file="file://$PROJECT_DIR$/EqualityOperators/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Linq/BookRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AggregationOperations/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LinqDemos/Params.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LinqDemos/Person.cs" root0="FORCE_HIGHLIGHTING" />
@@ -208,6 +204,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DEBC1CA-F559-4CCF-992A-A9E60810B4D5/32/4d0a3487/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConcatenationOperators/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SetOperations/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConcatenationOperators/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PartitioningData/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestEqualityOperator/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" root0="SKIP_HIGHLIGHTING" />
@@ -240,6 +237,7 @@
         <option value="$PROJECT_DIR$/TestEqualityOperator/Tests.cs" />
         <option value="$PROJECT_DIR$/EqualityOperators/Program.cs" />
         <option value="$PROJECT_DIR$/ConcatenationOperators/Program.cs" />
+        <option value="$PROJECT_DIR$/AggregationOperations/Program.cs" />
       </list>
     </option>
   </component>
@@ -272,12 +270,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Linq (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Linq (16 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Linq (15 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ConcatenationOperators" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Linq (16 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SelectAndSelectMany" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -289,6 +287,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="SelectMan&#9;FILE&#9;file://C:/Users/galax/RiderProjects/Linq/SelectAndSelectMany" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../EventAndDelegates/EventAndDelegates.sln" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -305,7 +304,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.ConcatenationOperators">
+  <component name="RunManager" selected=".NET Project.SelectAndSelectMany">
+    <configuration name="AggregationOperations" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AggregationOperations/bin/Debug/AggregationOperations.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AggregationOperations/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AggregationOperations/AggregationOperations.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+    </configuration>
     <configuration name="ConcatenationOperators" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ConcatenationOperators/bin/Debug/ConcatenationOperators.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -362,28 +375,14 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
     </configuration>
-    <configuration name="PartitioningData" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/PartitioningData/bin/Debug/PartitioningData.exe" />
+    <configuration name="SelectAndSelectMany" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug/SelectAndSelectMany.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PartitioningData/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SelectAndSelectMany/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PartitioningData/PartitioningData.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
-    </configuration>
-    <configuration name="QuantifierOperations" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/QuantifierOperations/bin/Debug/QuantifierOperations.exe" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QuantifierOperations/bin/Debug" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/QuantifierOperations/QuantifierOperations.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SelectAndSelectMany/SelectAndSelectMany.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -392,19 +391,19 @@
     </configuration>
     <list>
       <item itemvalue=".NET Project.Default" />
-      <item itemvalue=".NET Project.QuantifierOperations" />
-      <item itemvalue=".NET Project.PartitioningData" />
       <item itemvalue=".NET Project.JoinOperations" />
       <item itemvalue=".NET Project.EqualityOperators" />
       <item itemvalue=".NET Project.ConcatenationOperators" />
+      <item itemvalue=".NET Project.AggregationOperations" />
+      <item itemvalue=".NET Project.SelectAndSelectMany" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.SelectAndSelectMany" />
+        <item itemvalue=".NET Project.AggregationOperations" />
         <item itemvalue=".NET Project.ConcatenationOperators" />
         <item itemvalue=".NET Project.EqualityOperators" />
         <item itemvalue=".NET Project.JoinOperations" />
-        <item itemvalue=".NET Project.PartitioningData" />
-        <item itemvalue=".NET Project.QuantifierOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +427,7 @@
       <workItem from="1528147091235" duration="3565000" />
       <workItem from="1528151926040" duration="11579000" />
       <workItem from="1528198551797" duration="844000" />
-      <workItem from="1528241121963" duration="2500000" />
+      <workItem from="1528241121963" duration="9136000" />
     </task>
     <task id="LOCAL-00001" summary="+ Grouping data">
       <created>1528151945153</created>
@@ -500,11 +499,25 @@
       <option name="project" value="LOCAL" />
       <updated>1528240947012</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="+ Concatenation Operators">
+      <created>1528243874359</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528243874359</updated>
+    </task>
+    <task id="LOCAL-00012" summary="+ Concatenation Operators">
+      <created>1528243887091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528243887091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40766000" />
+    <option name="totallyTimeSpent" value="47402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -516,7 +529,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="-14" width="1719" height="932" extended-state="6" />
+    <frame x="-6" y="-6" width="1719" height="932" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -525,7 +538,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="7" visible="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3263158" />
-      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.32732734" />
+      <window_info active="true" anchor="right" id="Run" order="5" visible="true" weight="0.21201201" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="NuGet" order="11" />
       <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15195195" />
@@ -560,30 +573,10 @@
     <MESSAGE value="+ Grouping data" />
     <MESSAGE value="+ Equality Operators" />
     <MESSAGE value="+ Element Operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Element Operations" />
+    <MESSAGE value="+ Concatenation Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Concatenation Operators" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JoinOperations/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding>
-            <marker date="1528170259675" expanded="true" signature="6:57" ph="..." />
-            <marker date="1528170259675" expanded="true" signature="109:278" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="200:272" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="303:480" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="398:474" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="508:1925" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="561:1919" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="622:791" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="845:1030" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="1262:1367" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="1664:1909" ph="{...}" />
-            <marker date="1528170259675" expanded="true" signature="1800:1895" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestEqualityOperator/Tests.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -855,13 +848,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FilteringData/FilteringData.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1000,16 +986,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConcatenationOperators/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        <state relative-caret-position="288">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <marker date="1528243658444" expanded="true" signature="6:78" ph="..." />
-            <marker date="1528243658444" expanded="true" signature="112:827" ph="{...}" />
-            <marker date="1528243658444" expanded="true" signature="141:537" ph="{...}" />
-            <marker date="1528243658444" expanded="true" signature="194:531" ph="{...}" />
-            <marker date="1528243658444" expanded="true" signature="572:825" ph="{...}" />
-            <marker date="1528243658444" expanded="true" signature="663:819" ph="{...}" />
-            <marker date="1528243658444" expanded="true" signature="746:809" ph="{...}" />
+            <marker date="1528244452915" expanded="true" signature="6:78" ph="..." />
+            <marker date="1528244452915" expanded="true" signature="112:831" ph="{...}" />
+            <marker date="1528244452915" expanded="true" signature="141:541" ph="{...}" />
+            <marker date="1528244452915" expanded="true" signature="194:535" ph="{...}" />
+            <marker date="1528244452915" expanded="true" signature="576:829" ph="{...}" />
+            <marker date="1528244452915" expanded="true" signature="667:823" ph="{...}" />
+            <marker date="1528244452915" expanded="true" signature="750:813" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AggregationOperations/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <marker date="1528249697728" expanded="true" signature="6:114" ph="..." />
+            <marker date="1528249697728" expanded="true" signature="147:1443" ph="{...}" />
+            <marker date="1528249697728" expanded="true" signature="176:1441" ph="{...}" />
+            <marker date="1528249697728" expanded="true" signature="229:1163" ph="{...}" />
+            <marker date="1528249697728" expanded="true" signature="1235:1417" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectAndSelectMany/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+          <folding>
+            <marker date="1528085377297" expanded="false" signature="6:58" ph="..." />
+            <marker date="1528085377297" expanded="true" signature="89:1489" ph="{...}" />
+            <marker date="1528085377297" expanded="true" signature="118:1487" ph="{...}" />
+            <marker date="1528085377297" expanded="true" signature="171:1481" ph="{...}" />
+            <marker date="1528085377297" expanded="true" signature="566:666" ph="/* Get the length of each word as an array with words themselves ... */" />
           </folding>
         </state>
       </provider>

@@ -9,6 +9,8 @@ namespace FilteringData
         {
             var numbers = Enumerable.Range(1, 10);
             var enumerable = numbers as int[] ?? numbers.ToArray();
+            
+            // Filter by a predicate
             var evenNumber = enumerable.Where(n => n % 2 == 0);
             evenNumber.Print();
             var oddSquares = enumerable.Select(x => x * x).Where(y => y % 2 == 1);

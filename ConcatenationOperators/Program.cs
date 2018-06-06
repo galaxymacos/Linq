@@ -9,9 +9,9 @@ namespace ConcatenationOperators
         public static void Main(string[] args)
         {
             var integralTypes = new[] {typeof(int), typeof(short)};
-            var fpTypes = new[] {typeof(float), typeof(double)};   // concat in positive order
-            integralTypes.Concat(fpTypes).Print();    // concat in reverse order
-            integralTypes.Concat(fpTypes).Prepend(typeof(bool)).Print();
+            var fpTypes = new[] {typeof(float), typeof(double)};   
+            integralTypes.Concat(fpTypes).Print();    // concat in positive order
+            integralTypes.Concat(fpTypes).Prepend(typeof(bool)).Print();    // concat in reverse order
         }
     }
 

@@ -1,0 +1,9 @@
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\bin\Debug\ConcatenationOperators.exe
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\bin\Debug\ConcatenationOperators.pdb
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\bin\Debug\MyExtensionLibrary.pdb
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\obj\Debug\ConcatenationOperators.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\obj\Debug\ConcatenationOperators.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\obj\Debug\ConcatenationOperators.csproj.CopyComplete
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\obj\Debug\ConcatenationOperators.exe
+C:\Users\galax\RiderProjects\Linq\ConcatenationOperators\obj\Debug\ConcatenationOperators.pdb

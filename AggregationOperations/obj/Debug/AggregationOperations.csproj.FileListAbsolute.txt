@@ -1,0 +1,9 @@
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\bin\Debug\AggregationOperations.exe
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\bin\Debug\AggregationOperations.pdb
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\bin\Debug\MyExtensionLibrary.dll
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\bin\Debug\MyExtensionLibrary.pdb
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\obj\Debug\AggregationOperations.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\obj\Debug\AggregationOperations.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\obj\Debug\AggregationOperations.csproj.CopyComplete
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\obj\Debug\AggregationOperations.exe
+C:\Users\galax\RiderProjects\Linq\AggregationOperations\obj\Debug\AggregationOperations.pdb

@@ -8,16 +8,20 @@ namespace QuantifierOperations
         public static void Main(string[] args)
         {
             int[] numbers = {1, 2, 3, 4, 5};
-            Console.WriteLine("Are all numbers > 0? "+numbers.All(n=>n>0));
-            Console.WriteLine("Are all numbers odd? "+numbers.All(n=>n%2==1));
-            Console.WriteLine("Any number < 2? "+numbers.Any(n=>n<2));
-            
+            Console.WriteLine("Are all numbers > 0? " + numbers.All(n => n > 0));
+            Console.WriteLine("Are all numbers odd? " + numbers.All(n => n % 2 == 1));
+            Console.WriteLine("Any number < 2? " + numbers.Any(n => n < 2));
+
             // Check if a collection is empty
-            int[] intArray = {};
-            Console.WriteLine("Does array have any elements? "+intArray.Any());
-            
+            int[] intArray = { };
+            Console.WriteLine("Does array have any elements? " + intArray.Any());
+
             // Contains check whether an IEnumerable contain a specific value
-            Console.WriteLine("Does the array contain five? "+numbers.Contains(5));
+            Console.WriteLine("Does the array contain five? " + numbers.Contains(5));
+
+            // the order of count and where
+            Console.WriteLine(numbers.Where(i => i > 3).Count()); // == 
+            Console.WriteLine(numbers.Count(i => i > 3));
         }
     }
 }

@@ -36,7 +36,7 @@ namespace GroupingData
             foreach (IGrouping<int, string> grouping in byAgeNames)
             {
                 Console.WriteLine($"{grouping.Key}");
-                foreach (string s in grouping)
+                foreach (string s in grouping.Distinct())
                 {
                     Console.Write(s+" ");
                 }

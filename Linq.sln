@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEqualityOperator", "Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperations", "ElementOperations\ElementOperations.csproj", "{E0CD5FE9-8FB9-4511-8AE6-D2D1B7ECE81A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenationOperators", "ConcatenationOperators\ConcatenationOperators.csproj", "{9E53F486-CC62-4004-B209-3BD8D91FAEAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{E0CD5FE9-8FB9-4511-8AE6-D2D1B7ECE81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0CD5FE9-8FB9-4511-8AE6-D2D1B7ECE81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0CD5FE9-8FB9-4511-8AE6-D2D1B7ECE81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E53F486-CC62-4004-B209-3BD8D91FAEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E53F486-CC62-4004-B209-3BD8D91FAEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E53F486-CC62-4004-B209-3BD8D91FAEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E53F486-CC62-4004-B209-3BD8D91FAEAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
